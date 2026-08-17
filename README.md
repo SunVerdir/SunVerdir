@@ -1,18 +1,24 @@
 <div align="center">
-  <h1>👋 菅野 敦也 | Atsunari Sugano (SunVerdir)</h1>
-  <p><strong>経営DXラボ CIO / 政策起業家 / Python × web3 エヴァンジェリスト</strong></p>
-  <p>Society 5.0 / 地方創生AX / シビックテック / Semantic Web</p>
+  <h1>👋 Atsunari Sugano | 菅野 敦也 (SunVerdir)</h1>
+  <p><strong>Policy Entrepreneur / CIO at Keiei DX Lab / Python × web3 Evangelist</strong></p>
+  <p>Society 5.0 / Local Revitalization AX / Civic Tech / Semantic Web</p>
 </div>
 
 <br>
 
-## 🚀 Vision: 地方創生AXの社会実装
-岡山を拠点に、**AI（Python）とweb3（DAO）を日常の道具として活用し、自然共生とSX（サステナビリティ・トランスフォーメーション）の新機軸を実装**しています。「コードが書ける政策起業家」として、テクノロジーと地域社会（子ども食堂DAOや生涯学習リビングラボなど）の架け橋となることを目指しています。
+## 🚀 About Me / Vision
+**Bridging Technology and Local Communities | テクノロジーと地域社会の架け橋**
 
-### 🔭 現在の注力領域 (Focus Areas)
-- **地方創生AX (AI Transformation):** Pythonを用いた地域課題解決型アルゴリズムの構築
-- **Semantic Web & 貢献の可視化:** JSON-LDを活用したパーソナルブランディングと Wikidata/ORCID 連携
-- **シビックテック & DAO:** `Super.Education.Lab` を通じたソーシャルキャピタルの育成
+Based in Okayama, Japan, I am a "coding policy entrepreneur" dedicated to implementing **Local Revitalization AX (AI Transformation)** and **SX (Sustainability Transformation)**. My goal is to make AI (Python) and web3 (DAO) everyday tools for social good, fostering natural coexistence and community engagement (e.g., Children's Cafeteria DAOs, Lifelong Learning Living Labs).
+
+岡山を拠点に、「コードが書ける政策起業家」として**地方創生AX**と**SX（サステナビリティ・トランスフォーメーション）**の社会実装に取り組んでいます。AI（Python）とweb3（DAO）を日常の道具として活用し、子ども食堂DAOや生涯学習リビングラボなど、テクノロジーを通じた地域社会のアップデートを目指しています。
+
+<br>
+
+## 🔭 Current Focus / 現在の注力領域
+- 🤖 **Local Revitalization AX (地方創生AX):** Building problem-solving algorithms for local communities using Python. / Pythonを用いた地域課題解決型アルゴリズムの構築。
+- 🌐 **Semantic Web & Identity (貢献の可視化):** Personal branding and contribution tracking using JSON-LD, integrating with Wikidata and ORCID. / JSON-LDを活用した貢献の可視化と、Wikidata/ORCID連携。
+- 🤝 **Civic Tech & DAO (シビックテック & DAO):** Fostering social capital through initiatives like `Super.Education.Lab`. / `Super.Education.Lab` を通じたソーシャルキャピタルの育成。
 
 <br>
 
@@ -37,8 +43,9 @@
 
 <br>
 
-## 🤝 Connect with me
-オープンイノベーション、政策提言、共同研究に関するご相談を歓迎いたします。
+## 🤝 Let's Connect / 協業・お問い合わせ
+I am open to open innovation, policy discussions, and collaborative research. Please feel free to reach out!
+オープンイノベーション、政策提言、共同研究に関するご相談を歓迎いたします。お気軽にご連絡ください。
 
 - 🌐 **Portal:** [Super.Education.Lab (Okayama)](https://www.city-okayama.net/)
 - 🪪 **Wikidata:** [Q100455577](https://www.wikidata.org/wiki/Q100455577)
