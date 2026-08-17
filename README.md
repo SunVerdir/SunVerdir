@@ -7,15 +7,17 @@
 <br>
 
 ## 🚀 About Me / Vision
+
 **Bridging Technology and Local Communities | テクノロジーと地域社会の架け橋**
 
-Based in Okayama, Japan, I am a "coding policy entrepreneur" dedicated to implementing **Local Revitalization AX (AI Transformation)** and **SX (Sustainability Transformation)**. My goal is to make AI (Python) and web3 (DAO) everyday tools for social good, fostering natural coexistence and community engagement (e.g., Children's Cafeteria DAOs, Lifelong Learning Living Labs).
+Based in Okayama, Japan, I'm a policy entrepreneur practicing AI-Driven Development. Using LLMs (Large Language Models) and code-generation AI, I specialize in rapid prototyping — moving from requirements definition straight through to Python implementation. My mission is to turn technology from something "special" into an everyday tool, driving social implementation like Local Revitalization AX, Children's Cafeteria DAOs, and Lifelong Learning Living Labs — **building it myself, hands-on (Python × web3)**.
 
-岡山を拠点に、「コードを自動生成できる政策起業家」として**地方創生AX（AIトランスフォーメーション）**と**SX（サステナビリティ・トランスフォーメーション）**の社会実装に取り組んでいます。AI（Python）とweb3（DAO）を日常の道具として活用し、子ども食堂DAOや生涯学習リビングラボなど、テクノロジーを通じた地域社会のアップデートを目指しています。
+岡山を拠点に活動する、AI駆動型開発（AI-Driven Development）を実践する政策起業家です。LLM（大規模言語モデル）やコード生成AIを駆使し、要件定義からPythonによる実装までを高速に行うプロトタイピングを得意としています。テクノロジーを「特別なもの」から「日常の道具」へ変え、地方創生AXや子ども食堂DAO、生涯学習リビングラボといった社会実装を**自らの手を動かして（Python x web3）**進めています。
 
 <br>
 
 ## 🔭 Current Focus / 現在の注力領域
+
 - 🤖 **Local Revitalization AX (地方創生AIトランスフォーメーション):** Building problem-solving algorithms for local communities using Python. / Pythonの自動生成技術を用いた地域課題解決型アルゴリズムの構築。
 - 🌐 **Semantic Web & Identity (貢献の可視化):** Personal branding and contribution tracking using JSON-LD, integrating with Wikidata and ORCID. / JSON-LDを活用した貢献の可視化と、Wikidata/ORCID連携。
 - 🤝 **Civic Tech & DAO (シビックテック & DAO):** Fostering social capital through initiatives like `Super.Education.Lab`. / `Super.Education.Lab` を通じたソーシャルキャピタルの育成。
@@ -23,6 +25,7 @@ Based in Okayama, Japan, I am a "coding policy entrepreneur" dedicated to implem
 <br>
 
 ## 🛠 Tech Stack & Tools
+
 <p>
   <!-- プログラミング言語 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -38,6 +41,7 @@ Based in Okayama, Japan, I am a "coding policy entrepreneur" dedicated to implem
 <br>
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SunVerdir&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=c9d1d9" alt="GitHub Stats" />
 </div>
@@ -45,8 +49,10 @@ Based in Okayama, Japan, I am a "coding policy entrepreneur" dedicated to implem
 <br>
 
 ## 🤝 Let's Connect / 協業・お問い合わせ
+
 I am open to open innovation, policy discussions, and collaborative research. Please feel free to reach out!
-オープンイノベーション、政策提言、共同研究に関するご相談を歓迎いたします。お気軽にご連絡ください。
+
+オープンイノベーション、政策提言、共同研究に関するご提案を歓迎いたします。
 
 - 🌐 **Portal:** [Management DX Lab (Okayama)](https://www.maemuki.info/)
 - 🪪 **Wikidata:** [Q100455577](https://www.wikidata.org/wiki/Q100455577)
