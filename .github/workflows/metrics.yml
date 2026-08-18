@@ -1,0 +1,22 @@
+name: Generate GitHub Metrics SVG
+
+on:
+  schedule:
+    - cron: "0 15 * * *"   # 毎日 UTC 15:00 (日本時間 0:00) に自動更新
+  workflow_dispatch:        # 「Run workflow」ボタンで手動実行も可能
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # SVGをリポジトリに自動コミットするために必要
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: "header, activity, community, repositories"
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          config_timezone: Asia/Tokyo
