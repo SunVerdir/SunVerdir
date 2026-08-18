@@ -43,7 +43,7 @@ Based in Okayama, Japan, I'm a policy entrepreneur practicing AI-Driven Developm
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunVerdir&show_icons=true&theme=transparent&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/SunVerdir/SunVerdir/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br>
