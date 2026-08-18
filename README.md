@@ -10,9 +10,9 @@
 
 **Bridging Technology and Local Communities | テクノロジーと地域社会の架け橋**
 
-Based in Okayama, Japan, I'm a policy entrepreneur practicing AI-Driven Development. Using LLMs (Large Language Models) and code-generation AI, I specialize in rapid prototyping — moving from requirements definition straight through to Python implementation. My mission is to turn technology from something "special" into an everyday tool, driving social implementation like Local Revitalization AX, Children's Cafeteria DAOs, and Lifelong Learning Living Labs — **building it myself, hands-on (Python × web3)**.
+Based in Okayama, Japan, I'm a policy entrepreneur practicing AI-Driven Development. Using LLMs (Large Language Models) and code-generation AI, I specialize in rapid prototyping — moving from requirements definition straight through to Python implementation. My mission is to turn technology from something "special" into an everyday tool, driving social implementation like Local Revitalization AX, Children's Cafeteria DAOs, and Lifelong Learning Living Labs — <strong>building it myself, hands-on (Python × web3)</strong>.
 
-岡山を拠点に活動する、AI駆動型開発（AI-Driven Development）を実践する政策起業家です。LLM（大規模言語モデル）やコード生成AIを駆使し、要件定義からPythonによる実装までを高速に行うプロトタイピングを得意としています。テクノロジーを「特別なもの」から「日常の道具」へ変え、地方創生AXや子ども食堂DAO、生涯学習リビングラボといった社会実装を**自らの手を動かして（Python x web3）**進めています。
+岡山を拠点に活動する、AI駆動型開発（AI-Driven Development）を実践する政策起業家です。LLM（大規模言語モデル）やコード生成AIを駆使し、要件定義からPythonによる実装までを高速に行うプロトタイピングを得意としています。テクノロジーを「特別なもの」から「日常の道具」へ変え、地方創生AXや子ども食堂DAO、生涯学習リビングラボといった社会実装を<strong>自らの手を動かして（Python x web3）</strong>進めています。
 
 <br>
 
