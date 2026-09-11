@@ -58,7 +58,7 @@ Based in Okayama, Japan, I'm a policy entrepreneur practicing AI-Driven Developm
 ## 🤝 Let's Connect / 協業・お問い合わせ
 I am open to open innovation, policy discussions, and collaborative research. Please feel free to reach out!
 
-オープンイノベーション、政策提言、共同研究に関するご提案を歓迎いたします。
+オープンイノベーション、政策形成、研究協力に関するご提案を歓迎いたします。
 
 - 🌐 **Portal:** [Management DX Lab (Okayama)](https://www.maemuki.info/)
 - 🪪 **Wikidata:** [Q100455577](https://www.wikidata.org/wiki/Q100455577)
