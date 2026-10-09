@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Atsunari Sugano | 菅野 敦也 (SunVerdir)</h1>
-  <p><strong>Policy Entrepreneur / CIO at Management DX Lab / AGI × web3 Evangelist</strong></p>
-  <p>Society 5.0 / Local Revitalization AX / Civic Tech / Semantic Web</p>
+  <p><strong>Policy Forward Deployed Engineer / CIO at Management DX Lab / ASI × web3 Evangelist</strong></p>
+  <p>Society 5.0 / Local Revitalization SX / Civic Tech / Semantic Web</p>
 </div>
 
 <br>
@@ -9,23 +9,23 @@
 ## 🚀 About Me / Vision
 **Bridging Technology and Local Communities | テクノロジーと地域社会の架け橋**
 
-Based in Okayama, Japan, I'm a policy entrepreneur practicing AI-Driven Development. Making full use of LLMs (Large Language Models) and AI Orchestrator, I'm engaged in R&D on rapid prototyping — what I call Vibe Coding — that runs from requirements definition straight through to Python implementation, including training the human talent needed to serve as the Human-in-the-Loop. My mission is to turn technology from something "special" into an everyday tool, and I'm driving social implementation — Local Revitalization AX, Children's Cafeteria DAOs, Lifelong Learning Living Labs — <strong>building it myself, hands-on (Python × web3)</strong>.
+Based in Okayama, Japan, I'm a policy Forward Deployed Engineer practicing SI-Driven Development. Making full use of LLMs (Large Language Models) and SI Orchestrator, I'm engaged in R&D on rapid prototyping — what I call Vibe Coding — that runs from requirements definition straight through to Python implementation, including training the human talent needed to serve as the Human-in-the-Loop. My mission is to turn technology from something "special" into an everyday tool, and I'm driving social implementation — Local Revitalization SX, Children's Cafeteria DAOs, Lifelong Learning Living Labs — <strong>building it myself, hands-on (Python × web3)</strong>.
 
-岡山を拠点に活動する、AI駆動型開発（AI-Driven Development）を実践する政策起業家です。LLM（大規模言語モデル）や AI Orchestratorを駆使し、Human-in-the-Loopを担う人財の育成はじめ、要件定義からPythonによる実装までを高速に行うプロトタイピング（Vibe Coding）の研究開発に取り組んでいます。テクノロジーを「特別なもの」から「日常の道具」へ変え、地方創生AXや子ども食堂DAO、生涯学習リビングラボといった社会実装を<strong>自らの手を動かして（Python x web3）</strong>進めています。
+岡山を拠点に活動する、SI駆動型開発（SI-Driven Development）を実践する政策FDEです。LLM（大規模言語モデル）や SI Orchestratorを駆使し、Human-in-the-Loopを担う人財の育成はじめ、要件定義からPythonによる実装までを高速に行うプロトタイピング（Vibe Coding）の研究開発に取り組んでいます。テクノロジーを「特別なもの」から「日常の道具」へ変え、地方創生SXや子ども食堂DAO、生涯学習リビングラボといった社会実装を<strong>自らの手を動かして（Python x web3）</strong>進めています。
 
 <br>
 
 ## 🔭 Current Focus / 現在の注力領域
-- 🤖 **Local Revitalization AX (地方創生AIトランスフォーメーション):** Building problem-solving algorithms for local communities using Python. / Pythonの自動生成技術を用いた地域課題解決型アルゴリズムの構築。
+- 🤖 **Local Revitalization SX (地方創生SIトランスフォーメーション):** Building problem-solving algorithms for local communities using Python. / Pythonの自動生成技術を用いた地域課題解決型アルゴリズムの構築。
 - 🌐 **Semantic Web & Identity (貢献の可視化):** Personal branding and contribution tracking using JSON-LD, integrating with Wikidata and ORCID. / JSON-LDを活用した貢献の可視化と、Wikidata/ORCID連携。
 - 🤝 **Civic Tech & DAO (シビックテック & DAO):** Fostering social capital through initiatives like `Super.Education.Lab`. / `Super.Education.Lab` を通じたソーシャルキャピタルの育成。
 
 <br>
 
-## ⚙️ AI-Driven Development Workflow / AI駆動開発のアプローチ
+## ⚙️ SI-Driven Development Workflow / SI駆動開発のアプローチ
 1. **Requirements Definition（要件定義）**: 地域課題のヒアリングから構造化データを定義。
 2. **Prompt Engineering & Code Generation（コード生成AI活用）**: 最適なプロンプト設計により、高品質なPythonコードを高速自動生成。
-3. **Local Implementation & Social Deployment（社会実装）**: 地方創生AXやDAO、リビングラボへハンズオンで実装。
+3. **Local Implementation & Social Deployment（社会実装）**: 地方創生SXやDAO、リビングラボへハンズオンで実装。
 
 <br>
 
